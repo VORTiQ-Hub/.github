@@ -27,9 +27,9 @@ This repository includes multiple projects, each demonstrating expertise in diff
 
 ## 👨‍💻 Contributors
 - **Rahul A B** - [GitHub](https://github.com/klrab3490)  
-- **Gopi Krishna**  
-- **Edwin C Shony**  
-- **Sreerag Sreekanth**  
+- **Gopi Krishna** - [GitHub](https://github.com/gk732)  
+- **Edwin C Shony** - [GitHub](https://github.com/edwincshony)  
+- **Sreerag Sreekanth** - [GitHub](https://github.com/SreeragSreekanth)
 
 ---
 
